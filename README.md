@@ -1,7 +1,6 @@
 # Hi, I'm Daniel 👋
 
 🎓 Computer Systems Engineering student (7th semester)
-💻 Interested in Cloud Computing, Software Development and Infrastructure
 
 ---
 
@@ -28,21 +27,16 @@ I'm always looking to pick up new tools and technologies as I need them.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 🌱 Currently learning
-
-![Cloud](https://img.shields.io/badge/Cloud_Computing-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Networks](https://img.shields.io/badge/Computer_Networks-00599C?style=for-the-badge&logo=cisco&logoColor=white)
-![FPGA](https://img.shields.io/badge/FPGA_%26_Embedded_Systems-8A2BE2?style=for-the-badge)
 
 ---
 
-## 📫 Get in touch
+## 📫 Contact
 
 <p>
-  <a href="https://www.linkedin.com/in/[TU_USUARIO]">
+  <a href="https://www.linkedin.com/in/[juan-daniel-lópez-garcés-505a99296]">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:[TU_CORREO]">
+  <a href="mailto:[jdanielg866@gmail.com]">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
