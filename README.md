@@ -33,7 +33,7 @@ I'm always looking to pick up new tools and technologies as I need them.
 ## 📫 Contact
 
 <p>
-  <a href="https://www.linkedin.com/in/[juan-daniel-lópez-garcés-505a99296]">
+  <a href="https://www.linkedin.com/in/juan-daniel-lópez-garcés-505a99296">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:[jdanielg866@gmail.com]">
